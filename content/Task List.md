@@ -1,0 +1,12 @@
+- [ ] definition of [[Paralysis]]
+- [ ] causes of paralysis
+- [ ] early diagnosis of paralysis
+- [ ] hard data, paralysis category
+- [ ] previous and past diseases of paralysis
+- [ ] death duration after paralysis
+- [ ] overcome of paralysis
+- [ ] Bangladesh paralysis treating hospital
+- [ ] best countries for paralysis treatment
+- [ ] companies specializes in paralysis
+- [ ] current norm in paralysis treatment
+- [ ] daily activities of normal human compared to a paralyzed patient (hospital and home)
