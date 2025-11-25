@@ -13,4 +13,4 @@ This webpage contains all the notes made I made on paralysis. Feel free to look 
 - [[Neural Anatomy]]
 - [[Task List]]
 
-More information added to test
+More info being uploaded here
