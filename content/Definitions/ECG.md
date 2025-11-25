@@ -1,0 +1,1 @@
+An **ECG**, which stands for **Electrocardiogram** (or EKG, from the German _Elektrokardiogramm_), is a simple, non-invasive test used to record the **electrical signals in the heart**. It provides a visual representation of the heart's electrical activity over time, usually as a wavy line graph.

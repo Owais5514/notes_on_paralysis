@@ -15,3 +15,6 @@ tags:
 Definitions to keep in mind
 - [[Paraplegic]] and [[Paraplegia]]
 
+> [!PDF|yellow] [[IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1).pdf#page=1&selection=177,29,183,22&color=yellow|IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1), p.1]]
+> > rate, must be continuously reported in health centers. The suggested method tracks the body of the case's pulse rate and other comparable data.
+
