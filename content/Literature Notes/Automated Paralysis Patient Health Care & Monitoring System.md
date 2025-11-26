@@ -4,13 +4,14 @@ title: Automated Paralysis Patient Health Care & Monitoring System
 authors: Hasin Eshrak, Mohammad Rejwan Uddin, Asif Mahmood, Mahady Hasan
 publication_date: 2023
 abstract: The majority of paralysis sufferers have difficulty communicating as well as moving certain body parts. An automated paralysis patient healthcare system can be incredibly valuable to these individuals. It's a computerized healthcare system. By moving any part of their body that can move, a disabled person can utilize this technology to display a message on an LCD panel. This strategy is also useful when the patient is left alone, and no one is available to provide care. A GPRS modem (SIM) is used to send an SMS, allowing whoever is caring for the patient to monitor the patient's condition from a distance. The system functions by understanding the user's tilt direction and monitoring real-time vitals. The device is used to demonstrate how it works by holding the thing in the fingers of the moving hand. The user only needs to tilt the device at a specific angle to send a message. This approach was designed to safeguard the safety and health of paralysis patients by giving immediate assistance.
-comments:
+comments: Somewhat good paper, probably threshold based monitoring using gloves, suggests ai based monitoring, no redundency
 pdf: "[[Automated Paralysis Patient Health Care & Monitoring System.pdf]]"
 url:
 tags:
   - paralysis
   - monitoring
   - patient
+  - conference
 ---
 
 > [!PDF|red] [[Automated Paralysis Patient Health Care & Monitoring System.pdf#page=1&selection=40,7,42,15&color=red|Automated Paralysis Patient Health Care & Monitoring System, p.1]]

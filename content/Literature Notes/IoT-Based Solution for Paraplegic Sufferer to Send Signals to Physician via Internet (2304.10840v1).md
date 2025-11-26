@@ -11,10 +11,35 @@ tags:
   - paralysis
   - patient
   - communication
+  - journal
 ---
 Definitions to keep in mind
-- [[Paraplegic]] and [[Paraplegia]]
+- [[Paraplegic]]
+- [[Paraplegia]]
+- [[Photoplethysmography]]
+- [[Sclerosis]]
 
-> [!PDF|yellow] [[IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1).pdf#page=1&selection=177,29,183,22&color=yellow|IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1), p.1]]
-> > rate, must be continuously reported in health centers. The suggested method tracks the body of the case's pulse rate and other comparable data.
+> [!PDF|red] [[IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1).pdf#page=1&selection=163,36,167,31&color=red|IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1), p.1]]
+> >  a system that enables a disabled person to move any area of his body capable of moving to broadcast a text on the LCD.
+> 
+> most paper on paralysis focuses on at least one moving body part
+
+> [!PDF|yellow] [[IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1).pdf#page=1&selection=169,67,173,115&color=yellow|IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1), p.1]]
+> >  user part's tilt direction, our suggested system operates. As a result, patients can communicate with physicians, therapists, or their loved ones at home or work over the web
+
+> [!PDF|yellow] [[IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1).pdf#page=1&selection=183,38,185,17&color=yellow|IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1), p.1]]
+> > photoplethysmography is used to assess heart rate
+> 
+> They suggest using day to day wearable tech to measure their heart rate. PPG use case: [[Photoplethysmography#Applications]]
+
+> [!PDF|yellow] [[IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1).pdf#page=1&selection=185,22,187,19&color=yellow|IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1), p.1]]
+> >  decoded periodic data is transmitted continually via a Microcontroller coupled to a transmitting module
+
+> [!PDF|red] [[IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1).pdf#page=1&selection=197,83,199,53&color=red|IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1), p.1]]
+> > provide an audible alert message that a specific room's case needs immediate attention
+
+> [!PDF|important] [[IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1).pdf#page=1&selection=204,85,210,43&color=important|IoT-Based Solution for Paraplegic Sufferer to Send Signals to Physician via Internet (2304.10840v1), p.1]]
+> > we created a technique that enables such individuals to communicate with elementary motions. This gadget may be made to fit within a person's clothing or be put on their finger
+
+
 

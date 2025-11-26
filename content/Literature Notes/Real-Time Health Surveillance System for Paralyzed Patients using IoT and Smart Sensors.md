@@ -4,13 +4,14 @@ title: Real-Time Health Surveillance System for Paralyzed Patients using IoT and
 authors: Aswin Sujith Varghese, Hudaif Abdul Hameed Neroth, Adarsh A, Poojashree Murali, Deepa Natesan
 publication_date: 2025
 abstract: This system is programmed to offer holistic care to paralysis patients through the integration of symptom monitoring, medical treatment support, and rehabilitation support utilizing IoT technology. The proposed system consists of networked devices like sensors, wearables, and a web application that communicate with each other and healthcare providers. The flex sensors monitor patient movements, the AD8232 ECG sensor monitors cardiac activity, the MPU6050 monitors falls, and a temperature sensor offers body temperature monitoring. Information is transmitted wirelessly via an ESP8266 Wi-Fi module to a Node-RED dashboard, enabling real-time visualization and instant notifications. The system offers rehabilitation exercises, medication and activity reminders, and health data collection for analytics. Smart algorithms allow healthcare providers to detect behavioral patterns, enabling customized interventions and treatment plans. This IoT-based system offers customized, realtime healthcare, enhancing treatment outcomes and quality of life for paralysis patients.
-comments:
+comments: Good paper, threshold based monitoring. no system for redundancy
 pdf: "[[Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors.pdf]]"
 url: https://doi.org/10.1109/ICICV64824.2025.11085798
 tags:
   - health
   - monotoring
   - paralysis
+  - conference
 ---
 > [!PDF|red] [[Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors.pdf#page=1&selection=78,34,80,25&color=red|Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors, p.1]]
 > > integration of symptom monitoring, medical treatment support, and rehabilitation support utilizing IoT technology.
@@ -78,4 +79,16 @@ tags:
 
 > [!PDF|yellow] [[Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors.pdf#page=3&selection=45,55,48,47&color=yellow|Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors, p.3]]
 > > An Arduino Mega microcontroller serves as the central processing unit and is connected to all of these sensors. Before sending the raw data over the ESP8266 Wi-Fi, it stabilizes and filters it
+
+> [!PDF|yellow] [[Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors.pdf#page=3&selection=78,0,86,13&color=yellow|Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors, p.3]]
+> > system incorporates threshold-based decision-making algorithms that monitor real-time inputs for critical health and safety events
+
+> [!PDF|yellow] [[Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors.pdf#page=5&selection=86,10,87,33&color=yellow|Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors, p.5]]
+> > email alert mechanisms are integrated into the NodeRED environment using SMTP nodes.
+
+> [!PDF|important] [[Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors.pdf#page=6&selection=7,37,14,1&color=important|Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors, p.6]]
+> > lex sensors accu- rately detected patient gestures for water, food, and emergency needs with over 95% recognition accuracy
+
+> [!PDF|note] [[Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors.pdf#page=6&selection=17,0,28,7&color=note|Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors, p.6]]
+> > minimal latency of around 3–4 seconds
 
