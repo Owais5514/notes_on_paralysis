@@ -12,6 +12,7 @@ tags:
   - monitoring
   - patient
   - conference
+  - read
 ---
 
 > [!PDF|red] [[Automated Paralysis Patient Health Care & Monitoring System.pdf#page=1&selection=40,7,42,15&color=red|Automated Paralysis Patient Health Care & Monitoring System, p.1]]

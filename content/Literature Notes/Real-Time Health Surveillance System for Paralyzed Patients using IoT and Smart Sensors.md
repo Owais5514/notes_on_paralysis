@@ -12,6 +12,7 @@ tags:
   - monotoring
   - paralysis
   - conference
+  - read
 ---
 > [!PDF|red] [[Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors.pdf#page=1&selection=78,34,80,25&color=red|Real-Time Health Surveillance System for Paralyzed Patients using IoT and Smart Sensors, p.1]]
 > > integration of symptom monitoring, medical treatment support, and rehabilitation support utilizing IoT technology.

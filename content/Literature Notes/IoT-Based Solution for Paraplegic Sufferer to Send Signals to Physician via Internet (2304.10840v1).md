@@ -12,6 +12,8 @@ tags:
   - patient
   - communication
   - journal
+  - q4
+  - read
 ---
 Definitions to keep in mind
 - [[Paraplegic]]
